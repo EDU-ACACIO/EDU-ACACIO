@@ -13,9 +13,11 @@
 [![Exercícios Python](https://img.shields.io/badge/-Exercícios_Python3-blue?style=for-the-badge&logo=python)](https://github.com/EDU-ACACIO/ExerciciosPython3)  
 > Exercícios resolvidos do curso de Python do Gustavo Guanabara.
 
-[![Projetos Faculdade](https://img.shields.io/badge/-Faculdade-deepskyblue?style=for-the-badge&logo=graduation-cap)](https://github.com/EDU-ACACIO/ProjetosFaculdade)  
-> Trabalhos e códigos desenvolvidos nas disciplinas da faculdade.
+[![Galaxy Book Ubuntu](https://img.shields.io/badge/-GalaxyBook_Ubuntu-grey?style=for-the-badge&logo=ubuntu)](https://github.com/EDU-ACACIO/galaxybook-ubuntu)  
+> Dicas e otimizações para rodar Ubuntu no Galaxy Book2.
 
+[![Exercícios Portugol](https://img.shields.io/badge/-Exercícios_Portugol-orange?style=for-the-badge)](https://github.com/EDU-ACACIO/Exercicios_Portugol)  
+> Lógica de programação com Portugol — exercícios de aprendizado prático.
 ---
 
 ## 📫 Onde me encontrar
