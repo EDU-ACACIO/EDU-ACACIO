@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Eduardo também conhecido como EDU
+# 👋 Olá! Eu sou o Eduardo 
 
 🎮 Apaixonado por tecnologia desde criança, especialmente por games  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
